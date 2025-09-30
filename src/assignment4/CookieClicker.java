@@ -11,6 +11,6 @@ import edu.princeton.cs.introcs.StdDraw;
 public class CookieClicker {
 
 	public static void main(String[] args) {
-		
+		System.out.println("hi");
 	}
 }
